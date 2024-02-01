@@ -1,0 +1,14 @@
+{
+    "Records": [
+        {
+            "s3": {
+                "bucket": {
+                    "name": "input-bucket-name"
+                },
+                "object": {
+                    "key": "review-audio-file.mp3"
+                }
+            }
+        }
+    ]
+}
